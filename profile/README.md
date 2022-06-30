@@ -6,7 +6,7 @@
 
 **GGS-Network** is an Internet company founded by **GoodGameServices Inc.** GGS-Network is managed by a 14 year old developer. The focus of GGS-Network is to provide users with a safer connection to the Internet world. The headquarters and development is originated from the heart of Germany.
 
-🎉 **Newest VPN-Client Version 4.1.1.9** [Check out the release notes here](https://github.com/Good-Game-Services/vpn-client/releases).
+🎉 **Newest Project* [Check out the release notes here](https://github.com/Good-Game-Services/GGS-Connect).
 
 <div align="center"> Give us a 
     <img width="25" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="Slack"/>
