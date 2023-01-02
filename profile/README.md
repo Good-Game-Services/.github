@@ -4,7 +4,15 @@
 
 # 👀 What is GGS-Network?
 
-**GGS-Network** is an Internet company founded by **GoodGameServices Inc.** GGS-Network is managed by a 14 year old developer. The focus of GGS-Network is to provide users with a safer connection to the Internet world. The headquarters and development is originated from the heart of Germany.
+Welcome to ggs-network, the first open-source VPN client based in Germany!
+We are proud to offer a secure and private browsing experience to our users. Our VPN client is completely open-source, which means that our code is available for anyone to review and audit. This ensures that there are no hidden backdoors or malicious code in our software.
+
+Our server network is based in Germany, which is known for its strict data privacy laws. This means that your data is protected by some of the strongest privacy regulations in the world.
+
+In addition to our commitment to privacy and security, we also offer fast and reliable connections. No matter where you are located, you can trust ggs-network to keep you connected to the internet securely and at high speeds.
+
+Thank you for choosing ggs-network as your VPN provider. We look forward to protecting your online privacy and security.
+
 
 🎉 **Newest Project* [Check out the release notes here](https://github.com/Good-Game-Services/GGS-Connect).
 
