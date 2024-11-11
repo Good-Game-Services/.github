@@ -1,6 +1,6 @@
 # What is Remote Desktop SaaS Platform by GGS-Network?
 
-Welcome to the Remote Desktop SaaS Platform by GGS-Network, the premier open-source solution for providing Windows Remote Desktop services in the cloud! Our platform is designed to cater to organizations of all sizes, offering secure and private virtual desktops for your team members. As an open-source project, all our code is available for review and audit, ensuring transparency and trustworthiness.
+Welcome to the Remote Desktop IaaS Platform by GGS-Network, the premier open-source solution for providing Windows Remote Desktop services in the cloud! Our platform is designed to cater to organizations of all sizes, offering secure and private virtual desktops for your team members. As an open-source project, all our code is available for review and audit, ensuring transparency and trustworthiness.
 
 Our infrastructure is hosted on Hetzner, known for its robust and reliable data centers. This ensures that your data is protected under strict European privacy regulations, providing you with peace of mind regarding data security and privacy.
 
